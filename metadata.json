@@ -1,0 +1,6 @@
+{
+  "name": "TATTZ-Meister: Deutsch Klasse 7",
+  "description": "Interaktives Deutsch-Lernspiel für die 7. Klasse zum TATTZ-Satz (Inhaltsangabe): erst vorgegebene Sätze ausfüllen, dann eigenständig TATTZ-Sätze mit Live-Prüfung und Schreibcoach formulieren.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
